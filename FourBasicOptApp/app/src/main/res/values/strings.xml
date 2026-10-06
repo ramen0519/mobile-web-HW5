@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FourBasicOptApp</string>
+    <string name="title">사칙연산 계산기</string>
+    <string name="hint_num1">첫 번째 숫자</string>
+    <string name="hint_num2">두 번째 숫자</string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_divide">÷</string>
+    <string name="result_default">결과:</string>
+    <string name="result_format">결과: %1$s %2$s %3$s = %4$s</string>
+    <string name="error_empty">숫자 두 개를 모두 입력하세요</string>
+    <string name="error_number">올바른 숫자를 입력하세요</string>
+</resources>
